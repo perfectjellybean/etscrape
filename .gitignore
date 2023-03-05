@@ -1,0 +1,6 @@
+__pycache__/
+images/
+*.log
+*.html
+*.json
+questions.md
